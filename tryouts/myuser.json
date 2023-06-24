@@ -1,0 +1,29 @@
+{
+    "myusers": [
+      {
+        "id": 1,
+        "name": "bee",
+        "age": 14
+      },
+      {
+        "id": 2,
+        "name": "val",
+        "age": 13
+      },
+      {
+        "id": 3,
+        "name": "sam",
+        "age": 12
+      },
+      {
+        "id": 4,
+        "name": "ben",
+        "age": 16
+      },
+      {
+        "id": 5,
+        "name": "jim",
+        "age": 11
+      }
+    ]
+  }

@@ -1,0 +1,18 @@
+{
+  "name": "ubaniselectionapi",
+  "version": "1.0.0",
+  "description": "election result api",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": ["Election", "result", "node", "nodemon", "express", "mongoDB", "mongoose"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.2.2",
+    "nodemon": "^2.0.22"
+  }
+}

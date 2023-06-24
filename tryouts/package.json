@@ -1,0 +1,25 @@
+{
+  "name": "tryouts",
+  "version": "1.0.0",
+  "description": "recreating a simple express nodejs api",
+  "main": "myserver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "node": "node myserver.js",
+    "dev": "nodemon myserver.js"
+  },
+  "keywords": [
+    "node",
+    "nodemon",
+    "express",
+    "http",
+    "req",
+    "res"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}
